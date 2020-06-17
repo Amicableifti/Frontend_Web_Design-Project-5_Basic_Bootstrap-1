@@ -1,0 +1,77 @@
+.serveice{
+
+}
+.service img{
+
+width: 68px;
+}
+p{
+	
+line-height: 1.4;
+}
+h6{
+
+color: blue;
+
+font-size: 16px;
+}
+h1{
+
+font-size: 30px;
+}
+h3{
+	
+font-size: 24px;
+	
+padding: 15px 0px;
+}
+.feature-section{
+	padding;100px 0px;
+}
+.feature-section img{
+	
+width: 50px;
+	
+max-width: 100%;
+	
+size: 30px;
+}
+.feature{
+	padding:25px;
+}
+.partner-section{
+	padding:100px 0px;
+}
+.partner-section span{
+
+}
+.partner-section a{
+
+text-align: left;
+
+text-transform: uppercase;
+
+text-spacing: 1px;
+}
+.partner-section h1{
+	
+font-size: 70px;
+	
+font-weight: 100;
+	
+margin: left;
+	
+text-align: left;
+}
+.partner-section h3{
+	
+color: blue;
+}
+.partners{
+
+text-align: center;
+}
+.partners img{
+
+width: 100%;
+}
